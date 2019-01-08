@@ -13,8 +13,8 @@
         short_description: 'Patch team - 01/08/2019'
         start_date: "{{item.Release_date}}"
         type: Normal
-      instance: dev50141
-      password: Welsnow321#
+      instance: dev69373
+      password: yhnnhY7y
       state: present
       table: change_request
       username: admin
