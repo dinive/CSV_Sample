@@ -10,7 +10,7 @@
       data:
         assignment_group: Unix Server Operations
         category: Server Infrastructure
-        short_description: 'rm team'
+        short_description: 'dev maker'
         start_date: "{{item.Release_date}}"
         type: Normal
       instance: dev69373
